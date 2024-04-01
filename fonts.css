@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "vaziri";
+  font-weight: 700;
+  font-style: normal;
+  src: url(./accsts/fonts/Vazirmatn-FD-Bold.woff2) format(woff2);
+}
+@font-face {
+  font-family: "vaziri";
+  font-style: normal;
+  font-weight: 400;
+  src: url(./accsts/fonts/Vazirmatn-FD-Regular.woff2) format(woff2);
+}
+body,
+button {
+  font-family: "vaziri";
+}
